@@ -1,0 +1,19 @@
+.odd-numbered {
+	background-color: #ffa0ad;
+	font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.even-numbered#second {
+	color: rgb(0, 0, 200);
+	font-size: 36px;
+}
+
+.odd-numbered#third {
+	font-size: 24px;
+}
+
+#fourth {
+	background-color: rgb(100, 255, 120);
+	font-size: 24px;
+	font-weight: bold;
+}
